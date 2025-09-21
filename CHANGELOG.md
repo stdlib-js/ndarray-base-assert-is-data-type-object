@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`31cb339`](https://github.com/stdlib-js/stdlib/commit/31cb339eecada54f0bba379206c4d97ef6f367bb) - **refactor:** add instanceof check to increase perf _(by Athan Reines)_
 -   [`5b491c9`](https://github.com/stdlib-js/stdlib/commit/5b491c98f454c2413c23eaa901543bef9e3642f2) - **fix:** allow enums to be nonpositive integers _(by Athan Reines)_
 -   [`a278663`](https://github.com/stdlib-js/stdlib/commit/a2786634547c68e950444c8a16d522d2ab79e335) - **fix:** ensure \"generic\" data type objects are considered valid _(by Athan Reines)_
 -   [`c31794b`](https://github.com/stdlib-js/stdlib/commit/c31794b5f6f6c60db2c2f0f11ed274039db837a2) - **feat:** add `ndarray/base/assert/is-data-type-object` _(by Athan Reines)_
